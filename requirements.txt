@@ -1,0 +1,5 @@
+fenicsx
+petsc4py
+mpi4py
+matplotlib
+numpy
